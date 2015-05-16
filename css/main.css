@@ -1,6 +1,9 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #707070;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
